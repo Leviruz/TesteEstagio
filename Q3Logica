@@ -1,0 +1,15 @@
+// creio que não seja necessario o desenvolvimento de linhas de codigo para encontrar tais sequencias
+
+
+
+a) 1, 3, 5, 7, _9_ // o valor é incrementado em 2;
+
+b) 2, 4, 8, 16, 32, 64, _128__ // o valor é multiplicado por 2;
+
+c) 0, 1, 4, 9, 16, 25, 36, _49_ // considerando 0^0 = 0, temos a sequencia seguindo a logica dos numeros naturais iniciando por 0 sendo elevados ao quadrado
+
+d) 4, 16, 36, 64, _100_ // se o valor de n for igual a n%2=0, o resultado é o numero, partindo de 2 elevado ao ²
+
+e) 1, 1, 2, 3, 5, 8, _13__ // sequencia de fibonacci
+
+f) 2,10, 12, 16, 17, 18, 19, __200__ // a sequencia é composta por numeros naturais iniciados com a letra 'D'
